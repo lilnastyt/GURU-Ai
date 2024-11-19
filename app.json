@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "917605902011;GURU;6281255369012;Ash"
+      "value": "254783250503;GURU;6281255369012;Ash"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -24,7 +24,7 @@
     },
     "SESSION_ID": {
       "description": "your session id",
-      "required": true,
+      "required": false,
       "value": ""
     },
     "MODE": {
